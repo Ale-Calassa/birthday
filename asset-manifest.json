@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/birthday/static/css/main.ace91616.css",
-    "main.js": "/birthday/static/js/main.bafdfdff.js",
+    "main.js": "/birthday/static/js/main.cf232b85.js",
     "static/media/cumple.png": "/birthday/static/media/cumple.af32d66ed655fa98f5a6.png",
     "static/media/moon.jpg": "/birthday/static/media/moon.495545d0f120240f4a9f.jpg",
     "index.html": "/birthday/index.html",
     "main.ace91616.css.map": "/birthday/static/css/main.ace91616.css.map",
-    "main.bafdfdff.js.map": "/birthday/static/js/main.bafdfdff.js.map"
+    "main.cf232b85.js.map": "/birthday/static/js/main.cf232b85.js.map"
   },
   "entrypoints": [
     "static/css/main.ace91616.css",
-    "static/js/main.bafdfdff.js"
+    "static/js/main.cf232b85.js"
   ]
 }
